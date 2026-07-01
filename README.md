@@ -88,4 +88,5 @@ retail-sales-analytics-sql-powerbi/
 ## Author
 
 **Srajan Sijariya**
+**Pratyush Sahu**
 B.Tech Mechanical Engineering, IIT Ropar
